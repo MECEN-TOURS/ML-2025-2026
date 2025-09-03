@@ -14,7 +14,7 @@ Cours de Machine Learning & Web Scraping du [Master MECEN de l'université de To
 - Maîtriser les rudiments de la construction d'un dataset.
 - Maîtriser les rudiments de l'entrainement d'un prédicteur.
 
-## Outils ciblès
+## Outils ciblés
 
 ## Généraux
 
@@ -46,8 +46,25 @@ Cours de Machine Learning & Web Scraping du [Master MECEN de l'université de To
 1. Choix du projet d'ici fin Septembre par groupe de 2 étudiants.
 1. Soutenance du projet début Janvier 2026.
 
-## Références et Liens
+## Références
+
+### Liens
 
 - [calmcode](calmcode.io)
   pour des explications très concises de beaucoup d'outils python et datascience.
 - [human readable regular expressions](https://johnfraney.ca/blog/human-readable-regular-expressions/)
+
+### Livres
+
+Pratiques :
+
+- Chollet : Deep Learning with Python
+- Geron : Hands on Machine Learning
+- Janssens : Python Polars the Definitive Guide
+
+Théoriques :
+
+- Bishop : Deep Lerning Foundations and Concepts
+- Bach : Learning Theory from First Principles
+- Goodfellow : Deep Learning
+- James et al : Introduction to Statistical Learning with Applications in Python
