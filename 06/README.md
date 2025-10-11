@@ -7,3 +7,7 @@
 1. Introduction de pydantic
 1. Expérimentation avec llm local
 1. Script autonomes avec dépendances dans docstring et uv
+
+## Référence utile
+
+- [uv cheat sheet](https://mathspp.com/blog/uv-cheatsheet)
